@@ -1,4 +1,4 @@
-const API_BASE = (typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.VITE_API_BASE) || 'http://10.87.187.135:8083';
+const API_BASE = (typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.VITE_API_BASE) || '';
 
 export function apiUrl(path: string): string {
   if (!path.startsWith('/')) path = '/' + path;

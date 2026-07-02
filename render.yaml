@@ -20,9 +20,9 @@ services:
       - key: KINDWISE_API_KEY
         sync: false
       - key: ML_API_URL
-        value: http://localhost:8000/crop  # Placeholder, will be replaced with actual ML service URL
+        value: https://krishi-sakhi-ml.onrender.com/crop
       - key: CNN_API_URL
-        value: http://localhost:8000/disease # Placeholder, will be replaced with actual ML service URL
+        value: https://krishi-sakhi-ml.onrender.com/disease
 
   - type: web
     name: krishi-sakhi-ml

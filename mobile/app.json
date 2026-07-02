@@ -24,10 +24,11 @@
       },
       "predictiveBackGestureEnabled": false,
       "permissions": [
-        "CAMERA",
-        "RECORD_AUDIO",
-        "MODIFY_AUDIO_SETTINGS"
-      ]
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ],
+      "package": "com.sohansahoo.krishisakhi"
     },
     "web": {
       "bundler": "metro",
@@ -59,6 +60,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c2e15beb-a20e-4dae-9c36-afe69cbeecc1"
+      }
     }
   }
 }
