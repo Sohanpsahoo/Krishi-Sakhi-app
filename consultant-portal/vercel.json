@@ -6,6 +6,10 @@
       "destination": "https://krishi-sakhi-backend-f5ln.onrender.com/api/$1"
     },
     {
+      "source": "/socket.io/(.*)",
+      "destination": "https://krishi-sakhi-backend-f5ln.onrender.com/socket.io/$1"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
