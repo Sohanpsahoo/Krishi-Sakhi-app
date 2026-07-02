@@ -1,0 +1,36 @@
+services:
+  - type: web
+    name: krishi-sakhi-backend
+    env: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: OPENWEATHER_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: KINDWISE_API_KEY
+        sync: false
+      - key: ML_API_URL
+        value: http://localhost:8000/crop  # Placeholder, will be replaced with actual ML service URL
+      - key: CNN_API_URL
+        value: http://localhost:8000/disease # Placeholder, will be replaced with actual ML service URL
+
+  - type: web
+    name: krishi-sakhi-ml
+    env: python
+    plan: free
+    rootDir: ml
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0

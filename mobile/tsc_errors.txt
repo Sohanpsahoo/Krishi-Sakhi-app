@@ -1,0 +1,22 @@
+﻿app/(tabs)/officers.tsx(437,39): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(props: LinearGradientProps): LinearGradient', gave the following error.
+    Type 'string[]' is not assignable to type 'readonly [ColorValue, ColorValue, ...ColorValue[]]'.
+      Source provides no match for required element at position 0 in target.
+  Overload 2 of 2, '(props: LinearGradientProps, context: any): LinearGradient', gave the following error.
+    Type 'string[]' is not assignable to type 'readonly [ColorValue, ColorValue, ...ColorValue[]]'.
+      Source provides no match for required element at position 0 in target.
+app/(tabs)/officers.tsx(441,43): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(props: LinearGradientProps): LinearGradient', gave the following error.
+    Type 'string[]' is not assignable to type 'readonly [ColorValue, ColorValue, ...ColorValue[]]'.
+      Source provides no match for required element at position 0 in target.
+  Overload 2 of 2, '(props: LinearGradientProps, context: any): LinearGradient', gave the following error.
+    Type 'string[]' is not assignable to type 'readonly [ColorValue, ColorValue, ...ColorValue[]]'.
+      Source provides no match for required element at position 0 in target.
+app/(tabs)/officers.tsx(450,50): error TS2339: Property 'statusTxt' does not exist on type '{ root: { flex: number; backgroundColor: string; }; scroll: { paddingTop: number; paddingHorizontal: number; }; heroCard: { borderRadius: number; overflow: "hidden"; marginBottom: number; backgroundColor: string; ... 4 more ...; shadowRadius: number; }; ... 126 more ...; submitBtnTxt: { ...; }; }'.
+app/(tabs)/officers.tsx(598,50): error TS2339: Property 'statusTxt' does not exist on type '{ root: { flex: number; backgroundColor: string; }; scroll: { paddingTop: number; paddingHorizontal: number; }; heroCard: { borderRadius: number; overflow: "hidden"; marginBottom: number; backgroundColor: string; ... 4 more ...; shadowRadius: number; }; ... 126 more ...; submitBtnTxt: { ...; }; }'.
+app/smart-recommendations.tsx(345,127): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(props: ScrollViewProps): ScrollView', gave the following error.
+    Object literal may only specify known properties, and 'padRight' does not exist in type 'ViewStyle | RecursiveArray<Falsy | ViewStyle>'.
+  Overload 2 of 2, '(props: ScrollViewProps, context: any): ScrollView', gave the following error.
+    Object literal may only specify known properties, and 'padRight' does not exist in type 'ViewStyle | RecursiveArray<Falsy | ViewStyle>'.
+components/ExternalLink.tsx(13,7): error TS2322: Type 'string' is not assignable to type '"/" | RelativePathString | ExternalPathString | "/activities" | `/activities?${string}` | `/activities#${string}` | "/farms" | `/farms?${string}` | `/farms#${string}` | "/feedback" | ... 81 more ... | { ...; }'.

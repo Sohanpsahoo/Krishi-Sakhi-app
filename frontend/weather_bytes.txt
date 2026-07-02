@@ -1,0 +1,6 @@
+"if (!weatherCode) return 'â˜\x81ï¸\x8f';"
+"if (code.includes('cloud')) return 'â˜\x81ï¸\x8f';"
+"if (code.includes('snow')) return 'â\x9d„ï¸\x8f';"
+"return 'â˜\x81ï¸\x8f';"
+"if (temp < 15) return 'â\x9d„ï¸\x8f Cool day - Good for planting and transplanting';"
+"{current ? getWeatherIcon(current.weather?.[0]?.main) : 'â˜\x81ï¸\x8f'}"

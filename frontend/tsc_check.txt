@@ -1,0 +1,43 @@
+﻿src/components/TranslatedText.tsx(17,13): error TS2559: Type '{ children: any; }' has no properties in common with type 'IntrinsicAttributes'.
+src/components/TranslatedText.tsx(25,13): error TS2559: Type '{ children: any; }' has no properties in common with type 'IntrinsicAttributes'.
+src/components/TranslatedText.tsx(31,11): error TS2559: Type '{ children: any; }' has no properties in common with type 'IntrinsicAttributes'.
+src/pages/Dashboard.tsx(167,23): error TS2339: Property 'echarts' does not exist on type 'Window & typeof globalThis'.
+src/pages/Dashboard.tsx(174,28): error TS2339: Property 'echarts' does not exist on type 'Window & typeof globalThis'.
+src/pages/Dashboard.tsx(177,73): error TS2339: Property 'echarts' does not exist on type 'Window & typeof globalThis'.
+src/pages/Dashboard.tsx(796,47): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.
+src/pages/Dashboard.tsx(796,53): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.
+src/pages/Feedback.tsx(237,21): error TS2322: Type 'string' is not assignable to type 'number'.
+src/pages/Market.tsx(160,23): error TS2339: Property 'echarts' does not exist on type 'Window & typeof globalThis'.
+src/pages/Market.tsx(167,28): error TS2339: Property 'echarts' does not exist on type 'Window & typeof globalThis'.
+src/pages/Market.tsx(170,41): error TS2339: Property 'echarts' does not exist on type 'Window & typeof globalThis'.
+src/pages/Profile.tsx(100,40): error TS2339: Property 'farms' does not exist on type '{}'.
+src/pages/Profile.tsx(100,58): error TS2339: Property 'farms' does not exist on type '{}'.
+src/pages/Profile.tsx(109,24): error TS2339: Property 'farms' does not exist on type '{}'.
+src/pages/Profile.tsx(115,31): error TS2339: Property 'farms' does not exist on type '{}'.
+src/pages/Profile.tsx(129,26): error TS2339: Property 'displayName' does not exist on type '{}'.
+src/pages/Profile.tsx(130,27): error TS2339: Property 'phone' does not exist on type '{}'.
+src/pages/Profile.tsx(131,27): error TS2339: Property 'email' does not exist on type '{}'.
+src/pages/Profile.tsx(132,27): error TS2339: Property 'state' does not exist on type '{}'.
+src/pages/Profile.tsx(133,30): error TS2339: Property 'district' does not exist on type '{}'.
+src/pages/Profile.tsx(134,40): error TS2339: Property 'language' does not exist on type '{}'.
+src/pages/Profile.tsx(135,38): error TS2339: Property 'experience' does not exist on type '{}'.
+src/pages/Profile.tsx(158,24): error TS2339: Property 'language' does not exist on type '{}'.
+src/pages/Profile.tsx(158,45): error TS2339: Property 'language' does not exist on type '{}'.
+src/pages/Profile.tsx(159,38): error TS2339: Property 'language' does not exist on type '{}'.
+src/pages/Profile.tsx(388,79): error TS2339: Property 'displayName' does not exist on type '{}'.
+src/pages/Profile.tsx(392,74): error TS2339: Property 'email' does not exist on type '{}'.
+src/pages/Profile.tsx(396,78): error TS2339: Property 'phoneNumber' does not exist on type '{}'.
+src/pages/Profile.tsx(400,65): error TS2339: Property 'language' does not exist on type '{}'.
+src/pages/Profile.tsx(409,80): error TS2339: Property 'experience' does not exist on type '{}'.
+src/pages/Profile.tsx(413,62): error TS2339: Property 'state' does not exist on type '{}'.
+src/pages/Profile.tsx(422,65): error TS2339: Property 'district' does not exist on type '{}'.
+src/pages/Profile.tsx(422,130): error TS2339: Property 'state' does not exist on type '{}'.
+src/pages/Profile.tsx(424,38): error TS2339: Property 'state' does not exist on type '{}'.
+src/pages/Profile.tsx(424,69): error TS2339: Property 'state' does not exist on type '{}'.
+src/pages/Profile.tsx(438,36): error TS2339: Property 'farms' does not exist on type '{}'.
+src/pages/Reminders.tsx(72,38): error TS2551: Property 'SpeechRecognition' does not exist on type 'Window & typeof globalThis'. Did you mean 'SpeechRecognitionEvent'?
+src/pages/Reminders.tsx(72,66): error TS2339: Property 'webkitSpeechRecognition' does not exist on type 'Window & typeof globalThis'.
+src/pages/Reminders.tsx(171,22): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.
+src/pages/Reminders.tsx(171,42): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.
+src/pages/Weather.tsx(63,46): error TS2339: Property 'value' does not exist on type 'PromiseSettledResult<Response>'.
+  Property 'value' does not exist on type 'PromiseRejectedResult'.
