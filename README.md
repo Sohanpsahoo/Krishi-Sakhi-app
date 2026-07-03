@@ -4,15 +4,19 @@
 
 Krishi Sakhi is a comprehensive digital farming platform designed specifically for Indian farmers, providing AI-powered agricultural guidance, real-time market data, and personalized farming advice.
 
-Images of Krishi Sakhi App: 
-<img width="300" height="500" alt="8" src="https://github.com/user-attachments/assets/0ed04d29-b973-46fa-88c3-387b2448105c" />
-<img width="716" height="1600" alt="7" src="https://github.com/user-attachments/assets/0d18953e-a088-456e-b033-53895072d1dc" />
-<img width="716" height="1600" alt="6" src="https://github.com/user-attachments/assets/6a1e0c70-f7c0-4e78-83cd-05531b259efd" />
-<img width="716" height="1600" alt="5" src="https://github.com/user-attachments/assets/71f41d4e-bc2e-4efd-98ea-8508905b92f8" />
-<img width="716" height="1600" alt="4" src="https://github.com/user-attachments/assets/ca555432-8606-4453-b8d6-c796e6c420fa" />
-<img width="716" height="1600" alt="3" src="https://github.com/user-attachments/assets/7d3738b9-9d71-4a58-8027-bd260654d323" />
-<img width="716" height="1600" alt="2" src="https://github.com/user-attachments/assets/a1a55ced-d991-473b-8abe-1145ce4ebe60" />
-<img width="789" height="1600" alt="1" src="https://github.com/user-attachments/assets/74556c44-f7ce-4d53-840f-8f05e4ade91e" />
+Images of Krishi Sakhi App:
+<img width="250" height="400" alt="1" src="https://github.com/user-attachments/assets/74556c44-f7ce-4d53-840f-8f05e4ade91e" />
+<img width="250" height="400" alt="2" src="https://github.com/user-attachments/assets/a1a55ced-d991-473b-8abe-1145ce4ebe60" />
+<img width="250" height="400" alt="3" src="https://github.com/user-attachments/assets/7d3738b9-9d71-4a58-8027-bd260654d323" />
+<img width="250" height="400" alt="4" src="https://github.com/user-attachments/assets/ca555432-8606-4453-b8d6-c796e6c420fa" />
+<img width="250" height="400" alt="8" src="https://github.com/user-attachments/assets/0ed04d29-b973-46fa-88c3-387b2448105c" />
+<img width="250" height="400" alt="7" src="https://github.com/user-attachments/assets/0d18953e-a088-456e-b033-53895072d1dc" />
+<img width="250" height="400" alt="6" src="https://github.com/user-attachments/assets/6a1e0c70-f7c0-4e78-83cd-05531b259efd" />
+<img width="250" height="400" alt="5" src="https://github.com/user-attachments/assets/71f41d4e-bc2e-4efd-98ea-8508905b92f8" />
+
+
+
+
 
 
 ## 🎯 Features
