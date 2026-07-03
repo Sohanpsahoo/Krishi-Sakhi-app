@@ -5,7 +5,7 @@
 Krishi Sakhi is a comprehensive digital farming platform designed specifically for Indian farmers, providing AI-powered agricultural guidance, real-time market data, and personalized farming advice.
 
 Images of Krishi Sakhi App: 
-<img width="716" height="1600" alt="8" src="https://github.com/user-attachments/assets/0ed04d29-b973-46fa-88c3-387b2448105c" />
+<img width="300" height="500" alt="8" src="https://github.com/user-attachments/assets/0ed04d29-b973-46fa-88c3-387b2448105c" />
 <img width="716" height="1600" alt="7" src="https://github.com/user-attachments/assets/0d18953e-a088-456e-b033-53895072d1dc" />
 <img width="716" height="1600" alt="6" src="https://github.com/user-attachments/assets/6a1e0c70-f7c0-4e78-83cd-05531b259efd" />
 <img width="716" height="1600" alt="5" src="https://github.com/user-attachments/assets/71f41d4e-bc2e-4efd-98ea-8508905b92f8" />
